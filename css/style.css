@@ -1,0 +1,29 @@
+.bg-info-color{
+    background-color: #FEEAE9;
+}
+
+.input-group.input-group-lg.mb-3 {
+    width: 500px;
+}
+
+.footer-box {
+    height: 350px;
+    padding: 60px;
+    background-color: #FEEAE9;
+    border-radius: 10px;
+}
+
+.d-flex.justify-content-center {
+    padding-top: 50px;
+}
+
+section.container.footer {
+    padding: 50px;
+}
+
+span#basic-addon2 {
+    width: 150px;
+    justify-content: center;
+    color: white;
+    background-color: #FF4891;
+}
